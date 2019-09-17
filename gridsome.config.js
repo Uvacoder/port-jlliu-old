@@ -40,7 +40,7 @@ chainWebpack (config) {
   // siteURL: 'https://jackieis.online',
 
   siteUrl: 'https://jlliu.github.io',
-  pathPrefix: '/<your-gridsome-repo-name>',
+  pathPrefix: '/gridsome-site',
 
   icon: './src/favicon.png',
   plugins: [
