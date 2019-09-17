@@ -39,8 +39,8 @@ chainWebpack (config) {
   // siteName: 'Jackie Liu',
   // siteURL: 'https://jackieis.online',
 
-  siteUrl: 'https://jlliu.github.io',
-  pathPrefix: '/gridsome-site',
+  siteUrl: 'https://jackieis.online',
+  // pathPrefix: '/gridsome-site',
 
   icon: './src/favicon.png',
   plugins: [
